@@ -1,0 +1,5 @@
+name = input("What is your name? ")
+print(f"Hello, {name}!")
+print("Day 1 of my QA-AI journey!")
+print("Repo: ai-portfolio")
+print("Goal: AI integration Engineer by week 12")
